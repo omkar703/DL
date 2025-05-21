@@ -1,5 +1,6 @@
 streamlit
 numpy
-tensorflow
+tensorflow == 2.8
 scikit-learn
 pandas
+python == 3.10.16
